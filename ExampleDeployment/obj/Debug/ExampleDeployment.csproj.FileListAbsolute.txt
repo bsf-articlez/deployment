@@ -64,7 +64,6 @@ D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\bin\Microsoft.
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\bin\Microsoft.AI.WindowsServer.xml
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\bin\Microsoft.AI.Web.xml
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\obj\Debug\ExampleDeployment.csprojAssemblyReference.cache
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\obj\Debug\ExampleDeployment.csproj.CoreCompileInputs.cache
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\obj\Debug\ExampleDeployment.csproj.CopyComplete
 D:\My Crouse\_ASP.NET_Web_Deployment\deployment\ExampleDeployment\obj\Debug\ExampleDeployment.dll
